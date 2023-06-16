@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenschagas&label=Profile%20views&color=0e75b6&style=flat" alt="rubenschagas" /> </p>
 
-- 🌱 I’m currently learning **Azure Devops, Gimp, Soft Skills**
+- 🌱 I’m currently learning **Hard skills: Azure Devops and Gimp; and some Soft Skills too.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rubenschagas](https://github.com/rubenschagas)
 

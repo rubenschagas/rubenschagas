@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **Hard skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too. :) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/rubenschagas](https://github.com/rubenschagas)
+- 👨‍💻 All of my projects are available at [https://github.com/rubenschagas?tab=repositories](https://github.com/rubenschagas?tab=repositories)
 
 - 💬 Ask me about **Ansible, Docker, JS, Cypress**
 
-- 📫 How to reach me **rubens.chagas@gmail.com**
+- 📫 How to reach me [mailto:rubens.chagas@gmail.com](rubens.chagas@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rubens-chagas/](https://www.linkedin.com/in/rubens-chagas/)
 
-- ⚡ Fun fact **I'm 3D printing experimenter; Old civilizations and geography researcher; Sports: hiking, mountain, bushcraft and outdoor mountain biking; Cat friendly.**
+- ⚡ Fun fact **I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking, mountain, bushcraft, and mountain biking; cat friendly and committed to social work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

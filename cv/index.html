@@ -36,7 +36,7 @@
     </div>
     <div class="info">
         <ul>
-            <li>A [QA|Dev]Ops Engineer that loves aplying his knowledge to solve problems, create amazing automated
+            <li>A [QA|Dev]Ops Engineer that loves aplying his knowledge to solve problems, create flabbergasted automated
                 solutions, reduce costs and impact lives.
             </li>
         </ul>
@@ -184,12 +184,13 @@
         <div class="item">
             <h4>Totvs Joinville - Supply Chain - Software company - São Paulo.</h4>
             <div class="time">
-                02/2023 - present
+                02/2023 - Present
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 QA Specialist
             </div>
-            <div class="des">
+            <div class="content">
                 Acting as a QA Specialist, I’m responsible for promoting quality assurance process in the company’s
                 suite products, training cross-teams colleagues and newcomers, and automating E2E tests.
             </div>
@@ -200,10 +201,11 @@
             <div class="time">
                 05/2020 - 01/2023
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 DevOps Specialist
             </div>
-            <div class="des">
+            <div class="content">
                 Introduced the reference code architecture for testing functionality; Automated the setup
                 (infrastructure as code), building (CI) and deployment (CD) of customer environment (Sass (GCP) and On
                 Premisses) 2-day-effort reduced to fewer minutes; Automated daily tasks (SysAdmin, Linux, repositories
@@ -216,10 +218,11 @@
             <div class="time">
                 05/2018 - 05/2020
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 QA Engineer (QAOps)
             </div>
-            <div class="des">
+            <div class="content">
                 Rid of unmaintainable and duplicated test related code documentation. Self-documented repositories;
                 Automated the setup (containerization) and deployment (CI/CD) of databases and test environments on VMs,
                 3-day -effort to 2 hours; Daily routines Automation through batch scripting, significant time of
@@ -232,10 +235,11 @@
             <div class="time">
                 09/2011 - 05/2018
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 QA Analyst
             </div>
-            <div class="des">
+            <div class="content">
                 Developed test case scenarios for a number of developers and operational teams in different countries;
                 Bug management tool (Zephyr Scale) and agile project management (Jira), Scrum, Kanban and Agile
                 methodologies. Coordinated and reported about test execution and defects life cycle (parallel projects);
@@ -251,10 +255,11 @@
             <div class="time">
                 02/2010 - 06/2011
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 Analyst
             </div>
-            <div class="des">
+            <div class="content">
                 Management and improvement in inventories, facilities and indicators of business tools infrastructure
                 (benefits card and mobile phones).
             </div>
@@ -265,10 +270,11 @@
             <div class="time">
                 01/2008 - 02/2010
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 Infrastructure Analyst
             </div>
-            <div class="des">
+            <div class="content">
                 Responsible for hardware and software management, computers, printers, network and telecom.
             </div>
         </div>
@@ -278,10 +284,11 @@
             <div class="time">
                 06/2005 - 07/2006
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 Trainee
             </div>
-            <div class="des">
+            <div class="content">
                 Supply Chain Project development; Digitization project on medical documentation and doctor
                 prescriptions.
             </div>
@@ -292,10 +299,11 @@
             <div class="time">
                 05/2004 - 12/2004
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 Junior Programmer
             </div>
-            <div class="des">
+            <div class="content">
                 Page editing (HTML, CSS) and publishing Intranet sites on banks merger projects (temporary project).
             </div>
         </div>
@@ -305,10 +313,11 @@
             <div class="time">
                 11/2003 - 05/2004
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 QA Specialist
             </div>
-            <div class="des">
+            <div class="content">
                 Planning systems and sites quality assurance testing, validating business concepts and simulation in
                 several browsers and operational systems, including former Mercury automatization software; Supervise
                 and train junior analysts execution tests.
@@ -320,10 +329,11 @@
             <div class="time">
                 07/2002 - 11/2003
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 QA Analyst
             </div>
-            <div class="des">
+            <div class="content">
                 Web sites quality assurance and testing, validating business concepts and simulation in several browsers
                 and operational systems; Development and execution of testing plans.
             </div>
@@ -334,10 +344,11 @@
             <div class="time">
                 11/2000 - 06/2002
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 Junior QA Analyst
             </div>
-            <div class="des">
+            <div class="content">
                 Projects on sites and systems. Technical stress in order to improve data and layout compatibility and
                 browsing speed; Execution of testing plans.
             </div>
@@ -348,10 +359,11 @@
             <div class="time">
                 05/1997 - 12/2007
             </div>
-            <div class="web">
+            <br>
+            <div class="collapsible">
                 Consultant
             </div>
-            <div class="des">
+            <div class="content">
                 Development and quality assurance of sites, hardware and software maintenance on desktops and laptops,
                 maintenance in operating systems (Windows), security and implementation of local networks.
             </div>
@@ -494,6 +506,23 @@
     </div>
 
 </div>
+
+<script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+    }
+</script>
 
 </body>
 </html>

@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Ansible, Docker, JS, Cypress**
 
-- 📫 How to reach me [mailto:rubens.chagas@gmail.com](rubens.chagas@gmail.com)
+- 📫 How to reach me [rubens.chagas@gmail.com](mailto:rubens.chagas@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rubens-chagas/](https://www.linkedin.com/in/rubens-chagas/)
 

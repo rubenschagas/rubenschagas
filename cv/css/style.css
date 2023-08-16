@@ -95,11 +95,35 @@ h2{
 .experience li{
     padding:10px 0;
 }
-
 .experience .web{
     color: #0c7373;
     padding:10px 0;
 }
+
+.experience .collapsible {
+    color: #0c7373;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    text-align: right;
+    outline: none;
+    font-size: 16px;
+}
+
+.experience .active, .collapsible:hover {
+    background-color: #f1f1f1;
+    text-align: right;
+}
+
+.experience .content {
+    text-align: right;
+    padding: 0 1px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    font-size: 17px;
+}
+
 .project{
     padding-left: 30px;
     text-align: justify;
@@ -129,23 +153,24 @@ h2{
     left: -37px;
 }
 
-.collapsible {
+.project .collapsible {
     color: #0c7373;
     cursor: pointer;
     width: 100%;
     border: none;
     text-align: left;
     outline: none;
-    font-size: 15px;
+    font-size: 16px;
 }
 
-.active, .collapsible:hover {
+.project  .active, .collapsible:hover {
     background-color: #f1f1f1;
 }
 
-.content {
-    padding: 0 18px;
+.project  .content {
+    padding: 0 1px;
     display: none;
     overflow: hidden;
     background-color: #f1f1f1;
+    font-size: 17px;
 }

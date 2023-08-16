@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenschagas&label=Profile%20views&color=0e75b6&style=flat" alt="rubenschagas" /> </p>
 
-- 🌱 I’m currently learning **Hard skills: Azure Devops and Gimp; and some Soft Skills too.**
+- 🌱 I’m currently learning **Hard skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too. :) 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rubenschagas](https://github.com/rubenschagas)
 
@@ -60,9 +60,12 @@
 </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-</a> 
+</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://bashlogo.com/img/symbol/jpg/full_colored_light.jpg" alt="shell script" width="40" height="40"/> 
 </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -76,6 +79,9 @@
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
+<a href="https://www.soapui.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.soapui.org/soapui/media/images/stories/homepage/Features/soapUI-logo.png" alt="soapui" width="40" height="40"/> 
 </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 

@@ -95,6 +95,11 @@ h2{
 .experience li{
     padding:10px 0;
 }
+
+.experience .web{
+    color: #0c7373;
+    padding:10px 0;
+}
 .project{
     padding-left: 30px;
     text-align: justify;

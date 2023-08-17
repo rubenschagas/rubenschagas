@@ -10,7 +10,7 @@ My 26 years of experience in IT have allowed me to successfully resolve numerous
 
 I possess a keen sense of curiosity, demonstrating a consistent drive for learning and a commitment to discovering the best and most efficient approaches to completing tasks. My ability to manage high-pressure situations and meet deadlines is well-practiced, and my proficiency in time management has consistently proven effective. I excel as a team player, contributing positively to collaborative environments.
 
-That being said, I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of my skills, experience, and background, please refer to my [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html).</p>
+That being said, I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of my skills, experience, and background, please refer to my other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html).</p>
 
 - 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :) 
 

@@ -36,14 +36,14 @@
     </div>
     <div class="info">
         <ul>
-            <li>A [QA|Dev]Ops Engineer that loves aplying his knowledge to solve problems, create flabbergasted automated
-                solutions, reduce costs and impact lives.
+            <li>A [QA|Dev]Ops Engineer focused on applying knowledge to solve problems, create automated solutions,
+                reduce costs, and make a positive impact on lives.
             </li>
         </ul>
     </div>
     <div class="intro">
         <h2>PERSONAL INFORMATION</h2>
-        <p>Brazilian; 40yo; Married (<i>with no children</i>); and a fan of 3D printing; Ancient civilizations and
+        <p>Brazilian; 40yo; married (<i>with no children</i>); and a fan of 3D printing; Ancient civilizations and
             geography researcher; lover of sports: hiking, mountain, bushcraft, and mountain biking; cat friendly and
             committed to social work.</p>
     </div>
@@ -536,19 +536,17 @@
                 performance and financial gains.
             </div>
         </div>
-
     </div>
-
 </div>
 
 <script>
-    var coll = document.getElementsByClassName("collapsible");
-    var i;
+    let coll = document.getElementsByClassName("collapsible");
+    let i;
 
     for (i = 0; i < coll.length; i++) {
-        coll[i].addEventListener("click", function() {
+        coll[i].addEventListener("click", function () {
             this.classList.toggle("active");
-            var content = this.nextElementSibling;
+            let content = this.nextElementSibling;
             if (content.style.display === "block") {
                 content.style.display = "none";
             } else {

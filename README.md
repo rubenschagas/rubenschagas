@@ -12,7 +12,7 @@
 
 - 📫 How to reach me via [rubens.chagas@gmail.com](mailto:rubens.chagas@gmail.com)
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/rubens-chagas/](https://br.linkedin.com/in/rubens-chagas/)
+- 📄 Know about my experiences at [www.linkedin.com/in/rubens-chagas](www.linkedin.com/in/rubens-chagas)
 
 - ⚡ Fun facts: **I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking, mountain, bushcraft, and mountain biking; cat friendly and committed to social work.**
 

@@ -6,15 +6,26 @@
 
 <p align="justify">I'm very enthusiastic about DevOps and QA areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
 
-My 26 years of experience in IT have allowed me to successfully resolve numerous issues across diverse industries, leading to improved cost reduction and increased profitability. I hold a degree in Computer Engineering, a postgraduate degree in Business Administration, and have completed technical courses in Data Processing. I have been actively engaged in IT since 1997, specializing in QA, [QA|Dev]Ops, and Sysadmin roles. Additionally, I have been a key participant in two major international projects as a QA Engineer. During my tenure in the DevOps role, I focused on innovation, strategic planning, and technical skill development.
+My 26 years of experience in IT have allowed me to successfully resolve numerous issues across diverse industries,
+leading to improved cost reduction and increased profitability. I hold a degree in Computer Engineering, a postgraduate
+degree in Business Administration, and have completed technical courses in Data Processing. I have been actively engaged
+in IT since 1997, specializing in QA, [QA|Dev]Ops, and Sysadmin roles. Additionally, I have been a key participant in
+two major international projects as a QA Engineer. During my tenure in the DevOps role, I focused on innovation,
+strategic planning, and technical skill development.
 
-I possess a keen sense of curiosity, demonstrating a consistent drive for learning and a commitment to discovering the best and most efficient approaches to completing tasks. My ability to manage high-pressure situations and meet deadlines is well-practiced, and my proficiency in time management has consistently proven effective. I excel as a team player, contributing positively to collaborative environments.
+I possess a keen sense of curiosity, demonstrating a consistent drive for learning and a commitment to discovering the
+best and most efficient approaches to completing tasks. My ability to manage high-pressure situations and meet deadlines
+is well-practiced, and my proficiency in time management has consistently proven effective. I excel as a team player,
+contributing positively to collaborative environments.
 
-That being said, I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of my skills, experience, and background, please refer to my other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html).</p>
+That being said, I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of
+my skills, experience, and background, please refer to my
+other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html).</p>
 
-- 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :) 
+- 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rubenschagas?tab=repositories](https://github.com/rubenschagas?tab=repositories)
+- 👨‍💻 All of my projects are available
+  at [https://github.com/rubenschagas?tab=repositories](https://github.com/rubenschagas?tab=repositories)
 
 - 💬 Ask me about **Ansible, Cypress, Docker, JS, Regex**.
 
@@ -22,7 +33,8 @@ That being said, I'm eager to contribute to projects, repositories, and communit
 
 - 📄 Know about my experiences at [www.linkedin.com/in/rubens-chagas](www.linkedin.com/in/rubens-chagas)
 
-- ⚡ Fun facts: **I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking, mountain, bushcraft, and mountain biking; cat friendly and committed to social work.**
+- ⚡ Fun facts: **I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
+  mountain, bushcraft, and mountain biking; cat friendly and committed to social work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +48,7 @@ That being said, I'm eager to contribute to projects, repositories, and communit
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks and Tools:</h3>
 <p align="left"> 
 <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> 
 <img src="https://img2.gratispng.com/20180413/oyw/kisspng-ansible-g2-technology-group-red-hat-organization-c-magic-circle-5ad07018670321.713204611523609624422.jpg" alt="ansible" width="40" height="40"/> 

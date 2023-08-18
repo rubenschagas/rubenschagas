@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenschagas&label=Profile%20views&color=0e75b6&style=flat" alt="rubenschagas" /> </p>
 
-<p align="justify">I'm very enthusiastic about DevOps and QA areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
+<p align="justify">
+I'm very enthusiastic about DevOps and QA areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
 
 My 26 years of experience in IT have allowed me to successfully resolve numerous issues across diverse industries,
 leading to improved cost reduction and increased profitability. I hold a degree in Computer Engineering, a postgraduate
@@ -20,7 +21,8 @@ contributing positively to collaborative environments.
 
 That being said, I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of
 my skills, experience, and background, please refer to my
-other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html).</p>
+other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html).
+</p>
 
 - 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :)
 

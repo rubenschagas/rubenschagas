@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rubens Chagas</h1>
+<h1 align="center">
+Hi 👋, I'm Rubens Chagas
+</h1>
 
-<h3 align="center">An enthusiastic [QA|Dev]Ops.</h3>
+<h3 align="center">
+An enthusiastic [QA|Dev]Ops.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenschagas&label=Profile%20views&color=0e75b6&style=flat" alt="rubenschagas" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=rubenschagas&label=Profile%20views&color=0e75b6&style=flat" alt="rubenschagas" />
+</p>
 
 <p align="justify">
 I'm very enthusiastic about DevOps and QA areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
@@ -38,7 +44,10 @@ other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/ind
 - ⚡ Fun facts: **I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
   mountain, bushcraft, and mountain biking; cat friendly and committed to social work.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+Connect with me:
+</h3>
+
 <p align="left">
 <a href="https://github.com/rubenschagas" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="rubenschagas" height="30" width="30" />
@@ -50,7 +59,10 @@ other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/ind
 </a>
 </p>
 
-<h3 align="left">Languages, Frameworks and Tools:</h3>
+<h3 align="left">
+Languages, Frameworks and Tools:
+</h3>
+
 <p align="left"> 
 <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> 
 <img src="https://img2.gratispng.com/20180413/oyw/kisspng-ansible-g2-technology-group-red-hat-organization-c-magic-circle-5ad07018670321.713204611523609624422.jpg" alt="ansible" width="40" height="40"/> 
@@ -116,6 +128,6 @@ other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/ind
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenschagas&show_icons=true&locale=en&layout=compact" alt="rubenschagas" /></p>
-
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenschagas&show_icons=true&locale=en&layout=compact" alt="rubenschagas" />
+</p>

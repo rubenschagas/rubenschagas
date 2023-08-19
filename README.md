@@ -35,9 +35,9 @@ other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/ind
 - 👨‍💻 All of my projects are available
   at [https://github.com/rubenschagas?tab=repositories](https://github.com/rubenschagas?tab=repositories)
 
-- 💬 Ask me about **Ansible, Cypress, Docker, JS, Regex**.
+- 💬 Ask me about **Ansible, Cypress, Docker, Linux, Regex, etc**.
 
-- 📫 How to reach me via [rubens.chagas@gmail.com](mailto:rubens.chagas@gmail.com)
+- 📫 How to reach me [rubens.chagas@gmail.com](mailto:rubens.chagas@gmail.com)
 
 - 📄 Know about my experiences at [www.linkedin.com/in/rubens-chagas](https://www.linkedin.com/in/rubens-chagas)
 

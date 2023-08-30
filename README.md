@@ -12,22 +12,12 @@ An enthusiastic [QA|Dev]Ops.
 
 <p align="justify">
 I'm very enthusiastic about DevOps and QA areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
+</p>
 
-My 26 years of experience in IT have allowed me to successfully resolve numerous issues across diverse industries,
-leading to improved cost reduction and increased profitability. I hold a degree in Computer Engineering, a postgraduate
-degree in Business Administration, and have completed technical courses in Data Processing. I have been actively engaged
-in IT since 1997, specializing in QA, [QA|Dev]Ops, and Sysadmin roles. Additionally, I have been a key participant in
-two major international projects as a QA Engineer. During my tenure in the DevOps role, I focused on innovation,
-strategic planning, and technical skill development.
-
-I possess a keen sense of curiosity, demonstrating a consistent drive for learning and a commitment to discovering the
-best and most efficient approaches to completing tasks. My ability to manage high-pressure situations and meet deadlines
-is well-practiced, and my proficiency in time management has consistently proven effective. I excel as a team player,
-contributing positively to collaborative environments.
-
-That being said, I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of
+<p align="justify">
+I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of
 my skills, experience, and background, please refer to my
-other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html).
+other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html) page.
 </p>
 
 - 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :)

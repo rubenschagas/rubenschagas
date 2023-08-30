@@ -1,0 +1,134 @@
+
+body {
+    background-color: #D5D5D5;
+    font-family: system-ui;
+}
+
+.container {
+    background-color: #E9E7EA;
+    width: 1000px;
+    max-width: 100%;
+    margin: auto;
+    padding: 50px;
+    box-shadow: 0 10px 50px #858585;
+    display: grid;
+    grid-template-columns: 35% 60%;
+    column-gap: 5%;
+    row-gap: 30px;
+}
+
+.avatar {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.name {
+    padding-left: 30px;
+    border-left: 1px solid #000;
+}
+
+.name h1 {
+    font-weight: 300;
+    font-size: xxx-large;
+    margin: 0px 0 5px;
+}
+
+.name .specialize {
+    margin: 0;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+h2 {
+    padding: 0;
+    margin: 0 0 5px 0;
+}
+
+.info ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: right;
+    line-height: 30px;
+}
+
+.intro {
+    padding-left: 30px;
+    border-left: 1px solid #000;
+    text-align: justify;
+}
+
+.personal {
+    text-align: right;
+}
+
+.personal h4 {
+    margin: 20px 0 10px;
+}
+
+.personal ul {
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+    text-align: right;
+}
+
+.personal li {
+    padding: 10px 0;
+}
+
+.personal .company {
+    color: #0c7373;
+    padding: 10px 0;
+}
+
+.personal .contact {
+    text-align: right;
+    padding: 0;
+    list-style: none;
+}
+
+.personal .contact span {
+    display: inline-block;
+    background-color: #000;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    text-align: center;
+    border-radius: 50%;
+    font-size: small;
+    margin-right: -60px;
+}
+
+.personal .contact li {
+    padding: 5px 0;
+    transform: translate(0px);
+    background-color: #E9E7EA;
+}
+
+.personal .contact .data {
+    padding: 5px 0;
+    transform: translate(0px);
+    background-color: #E9E7EA;
+}
+
+.cover {
+    padding-left: 30px;
+    text-align: justify;
+    border-left: 1px solid #000;
+}
+
+.cover h4 {
+    margin: 20px 0 10px;
+}
+
+.cover .letter {
+    position: relative;
+}
+
+.sig img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}

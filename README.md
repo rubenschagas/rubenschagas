@@ -11,7 +11,7 @@ An enthusiastic [QA|Dev]Ops.
 </p>
 
 <p align="justify">
-I'm very enthusiastic about DevOps and QA areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
+I'm very enthusiastic about DevOps and QAOps areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
 </p>
 
 <p align="justify">

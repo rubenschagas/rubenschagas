@@ -15,9 +15,7 @@ I'm very enthusiastic about DevOps and QAOps areas. With extensive experience in
 </p>
 
 <p align="justify">
-I'm eager to contribute to projects, repositories, and community work. For a comprehensive overview of
-my skills, experience, and background, please refer to my
-other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html) page.
+I'm eager to contribute to projects, repositories, and community work.
 </p>
 
 - 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :)
@@ -30,6 +28,10 @@ other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/ind
 - 📫 How to reach me [rubens.chagas@gmail.com](mailto:rubens.chagas@gmail.com)
 
 - 📄 Know about my experiences at [www.linkedin.com/in/rubens-chagas](https://www.linkedin.com/in/rubens-chagas)
+
+- For a comprehensive overview of
+  my skills, experience, and background, please refer to my
+  other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html) page.
 
 - ⚡ Fun facts: **I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
   mountain, bushcraft, and mountain biking; cat friendly and committed to social work.**

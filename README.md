@@ -11,11 +11,13 @@ An enthusiastic [QA|Dev]Ops.
 </p>
 
 <p align="justify">
-I'm very enthusiastic about DevOps and QAOps areas. With extensive experience in managing challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save time and effort, I am confident that I can make a significant contribution to our community.
+I am highly enthusiastic about the DevOps and QAOps domains. With extensive experience in successfully managing 
+challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save 
+time and effort, I am confident that I can make a significant contribution to our community.
 </p>
 
 <p align="justify">
-I'm eager to contribute to projects, repositories, and community work.
+I am eager to actively contribute to various projects, repositories, and community initiatives.
 </p>
 
 - 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :)

@@ -35,8 +35,8 @@ I am eager to actively contribute to various projects, repositories, and communi
   my skills, experience, and background, please refer to my
   other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html) page.
 
-- ⚡ Fun facts: **I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
-  mountain, bushcraft, and mountain biking; cat friendly and committed to social work.**
+- ⚡ Fun facts: I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
+  mountain, bushcraft, and mountain biking; cat friendly and committed to social work.
 
 <h3 align="left">
 Connect with me:

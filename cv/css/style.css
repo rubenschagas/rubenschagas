@@ -45,6 +45,7 @@ body {
     margin: 0;
     font-weight: bold;
     letter-spacing: 3px;
+    font-size: larger;
 }
 
 .name .contact {
@@ -75,7 +76,7 @@ body {
     margin: 0;
     list-style: none;
     text-align: right;
-    line-height: 30px;
+    line-height: 25px;
 }
 
 h2 {
@@ -87,6 +88,7 @@ h2 {
     padding-left: 30px;
     border-left: 1px solid #000;
     text-align: justify;
+    line-height: 20px;
 }
 
 .experience {

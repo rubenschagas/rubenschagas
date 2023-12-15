@@ -11,32 +11,30 @@ An enthusiastic [QA|Dev]Ops.
 </p>
 
 <p align="justify">
-I am highly enthusiastic about the DevOps and QAOps domains. With extensive experience in successfully managing 
-challenging projects, making well-informed decisions in difficult situations, and solving complex problems to save 
-time and effort, I am confident that I can make a significant contribution to our community.
+I am highly enthusiastic about the DevOps and QAOps domains. With extensive experience in effectively managing 
+challenging projects, making well-informed decisions in difficult situations, and solving complex problems to 
+save time and effort, I am confident in my ability to make a significant contribution to our community.
 </p>
 
 <p align="justify">
-I am eager to actively contribute to various projects, repositories, and community initiatives.
+I am eager to contribute actively to various projects, repositories, and community initiatives.
 </p>
 
-- 🌱 I’m currently learning **Hard Skills: Azure Devops, Git OneFlow and Gimp; and some Soft Skills too.** :)
+- 🌱 I am currently learning **hard skills such as Azure DevOps, Git OneFlow, and Gimp**, along with some **soft skills** too. :)
 
 - 👨‍💻 All of my projects are available
   at [https://github.com/rubenschagas?tab=repositories](https://github.com/rubenschagas?tab=repositories)
 
 - 💬 Ask me about **Ansible, Cypress, Docker, Linux, Regex, etc**.
 
-- 📫 How to reach me [rubens.chagas@gmail.com](mailto:rubens.chagas@gmail.com)
+- ⚡ Fun facts: I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
+  mountain, bushcraft, and mountain biking; cat friendly and committed to social work.
+
+- 📫 How to reach me: [rubens.chagas@gmail.com](mailto:rubens.chagas@gmail.com)
 
 - 📄 Know about my experiences at [www.linkedin.com/in/rubens-chagas](https://www.linkedin.com/in/rubens-chagas)
 
-- For a comprehensive overview of
-  my skills, experience, and background, please refer to my
-  other [portifolio](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html) page.
-
-- ⚡ Fun facts: I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
-  mountain, bushcraft, and mountain biking; cat friendly and committed to social work.
+- For a comprehensive overview of my skills, experience, and background, please refer to my responsive [CV](https://raw.githack.com/rubenschagas/rubenschagas/main/cv/index.html) page.
 
 <h3 align="left">
 Connect with me:

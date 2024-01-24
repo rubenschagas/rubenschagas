@@ -20,13 +20,14 @@ save time and effort, I am confident in my ability to make a significant contrib
 I am eager to contribute actively to various projects, repositories, and community initiatives.
 </p>
 
-- 🌱 I am currently learning **hard skills such as Azure DevOps, Git OneFlow, Gimp as well as installing my 
-own home cloud based on both Raspberry Pi and Orange Pi**, along with some **soft skills** too. :)
+- 🌱 I am currently learning **hard skills such as Azure DevOps, Git OneFlow, Kubernetes, Gimp, Raspberry Pi 5 and 
+- Orange Pi 5, as well as installing my own home cloud based on both these architectures**, along with some 
+- **soft skills** too. :)
 
 - 👨‍💻 All of my projects are available
   at [https://github.com/rubenschagas?tab=repositories](https://github.com/rubenschagas?tab=repositories)
 
-- 💬 Ask me about **Ansible, Cypress, Docker, Linux, Regex, etc**.
+- 💬 Ask me about **Ansible, Docker, Linux, Regex, Cypress, etc**.
 
 - ⚡ Fun facts: I'm a fan of 3D printing; Ancient civilizations and geography researcher; lover of sports: hiking,
   mountain, bushcraft, and mountain biking; cat friendly and committed to social work.
@@ -95,6 +96,9 @@ Languages, Frameworks and Tools:
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
 </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/> 
+</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
@@ -104,16 +108,27 @@ Languages, Frameworks and Tools:
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="40" height="40"/> 
 </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+</a> 
+<a href="http://www.orangepi.org/" target="_blank" rel="noreferrer"> 
+<img src="https://styles.redditmedia.com/t5_39s5l/styles/communityIcon_wq9sdpoums861.png" alt="Orange Pi" width="40" height="40"/> 
+</a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
+</a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="Raspberry Pi" width="40" height="40"/> 
+</a>
 <a href="https://www.soapui.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.soapui.org/soapui/media/images/stories/homepage/Features/soapUI-logo.png" alt="soapui" width="40" height="40"/> 
 </a> 

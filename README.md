@@ -20,9 +20,7 @@ save time and effort, I am confident in my ability to make a significant contrib
 I am eager to contribute actively to various projects, repositories, and community initiatives.
 </p>
 
-- 🌱 I am currently learning **hard skills such as Azure DevOps, Git OneFlow, Kubernetes, Gimp, Raspberry Pi 5 and 
-- Orange Pi 5, as well as installing my own home cloud based on both these architectures**, along with some 
-- **soft skills** too. :)
+- 🌱 I am currently learning **hard skills such as Azure DevOps, Git OneFlow, Kubernetes, Gimp, Raspberry Pi 5 and Orange Pi 5, as well as installing my own home cloud based on both these architectures**, along with some **soft skills** too. :)
 
 - 👨‍💻 All of my projects are available
   at [https://github.com/rubenschagas?tab=repositories](https://github.com/rubenschagas?tab=repositories)

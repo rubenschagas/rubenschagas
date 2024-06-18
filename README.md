@@ -3,7 +3,7 @@ Hi 👋, I'm Rubens Chagas.
 </h1>
 
 <h3 align="center">
-An enthusiastic [QA|Dev]Ops.
+An enthusiastic [Dev|QA]Ops.
 </h3>
 
 <p align="left"> 
